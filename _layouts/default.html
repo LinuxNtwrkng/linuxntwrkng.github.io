@@ -13,6 +13,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
   </head>
 
   <body>
@@ -25,8 +26,16 @@
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
-
           <nav>
+
+            <!-- Begin search block -->
+            <form action="{{ site.baseurl }}/search" method="get">
+              <label for="search_box">Search</label>
+              <input type="text" id="search_box" name="query">
+              <input type="submit" value="search">
+            </form>
+            <!-- End search block -->
+
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>

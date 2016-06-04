@@ -5,15 +5,13 @@ published: true
 tags: test
 ---
 
-This blog is written using [Atom](https://atom.io) and a few essential
-add on packages.  Here are the packages used:
+This blog is written using [Atom](https://atom.io) and a few essential add on packages.  Here are the packages used:
 
 [browser-refresh-on-save](https://atom.io/packages/browser-refresh-on-save){:target="blank"}
 
 >Reloads assets in the browser as soon as you save them
 
-I use this to view the changes made in the browser without having
-to manually switch back and refresh for every change.
+I use this to view the changes made in the browser without having to manually switch back and refresh for every change.
 
 [git-plus](https://atom.io/packages/git-plus){:target="blank"}
 
@@ -25,8 +23,7 @@ I use this to commit and push files from within Atom
 
 >A base linter with cow powers
 
-This is a base linter package used for visualizing syntax and
-similar errors on the fly
+This is a base linter package used for visualizing syntax and similar errors on the fly
 
 [linter-markdown](https://atom.io/packages/linter-markdown){:target="blank"}
 
@@ -44,5 +41,4 @@ This has quite a few features useful for editing Markdown and/or creating Jekyll
 
 >A preview of the full source code
 
-This provides a small thumbnail view of the entire file in the
-corner of the view
+This provides a small thumbnail view of the entire file in the corner of the view
