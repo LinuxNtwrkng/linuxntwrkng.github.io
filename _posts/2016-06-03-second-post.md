@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second Post
-published: false
+published: true
 tags: test
 ---
 This is my second post
