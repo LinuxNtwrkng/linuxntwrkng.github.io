@@ -45,4 +45,4 @@ This has quite a few features useful for editing Markdown and/or creating Jekyll
 >A preview of the full source code
 
 This provides a small thumbnail view of the entire file in the
-corner of the view  
+corner of the view
