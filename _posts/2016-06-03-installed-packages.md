@@ -8,7 +8,6 @@ tags: test
 This blog is written using [Atom](https://atom.io) and a few essential
 add on packages.  Here are the packages used:
 
-
 [browser-refresh-on-save](https://atom.io/packages/browser-refresh-on-save){:target="blank"}
 
 >Reloads assets in the browser as soon as you save them
@@ -39,13 +38,11 @@ This provides Markdown capabilities to the linter packages
 
 >Make Atom a better Markdown editor and an easier static blogging tool
 
-This has quite a few features useful for editing Markdown and/or creating Jekyll
-sites.  Right now I'm mostly just using the feature that automatically
-fills out the Frontmatter portion of new files
+This has quite a few features useful for editing Markdown and/or creating Jekyll sites.  Right now I'm mostly just using the feature that automatically fills out the Frontmatter portion of new files
 
 [minimap](https://atom.io/packages/minimap){:target="blank"}
 
 >A preview of the full source code
 
 This provides a small thumbnail view of the entire file in the
-corner of the view
+corner of the view  
