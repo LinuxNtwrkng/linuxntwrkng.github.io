@@ -5,6 +5,10 @@ published: true
 tags: test
 ---
 
+This blog is written using [Atom](https://atom.io) and a few essential
+add on packages.  Here are the packages used:
+
+
 [browser-refresh-on-save](https://atom.io/packages/browser-refresh-on-save){:target="blank"}
 
 >Reloads assets in the browser as soon as you save them
