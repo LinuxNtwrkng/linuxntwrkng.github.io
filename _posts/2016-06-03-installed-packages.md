@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Second Post
+title: Installed Packages
 published: true
 tags: test
 ---
-
-## Installed Packages
 
 [browser-refresh-on-save](https://atom.io/packages/browser-refresh-on-save){:target="blank"}
 
