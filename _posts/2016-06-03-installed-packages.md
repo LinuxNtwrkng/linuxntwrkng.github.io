@@ -19,7 +19,7 @@ to manually switch back and refresh for every change.
 
 >Do git things without the terminal
 
-I use this to commit and push files from within atom
+I use this to commit and push files from within Atom
 
 [linter](https://atom.io/packages/linter){:target="blank"}
 
