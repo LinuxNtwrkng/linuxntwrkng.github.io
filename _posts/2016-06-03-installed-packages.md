@@ -46,3 +46,4 @@ This has quite a few features useful for editing Markdown and/or creating Jekyll
 
 This provides a small thumbnail view of the entire file in the
 corner of the view
+s
