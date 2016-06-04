@@ -32,7 +32,7 @@ similar errors on the fly
 
 >Lint Markdown on the fly, using remark-lint
 
-This provides Markdown capabilities to the linter packages
+This provides Markdown capabilities to the linter packages. It does need to be [customized](/customizations-for-linter-markdown) to work correctly for Jekyll sites, though.
 
 [markdown-writer](https://atom.io/packages/markdown-writer){:target="blank"}
 
