@@ -35,7 +35,7 @@ This provides Markdown capabilities to the linter packages. It does need to be [
 
 >Make Atom a better Markdown editor and an easier static blogging tool
 
-This has quite a few features useful for editing Markdown and/or creating Jekyll sites.  Right now I'm mostly just using the feature that automatically fills out the Frontmatter portion of new files
+This has quite a few features useful for editing Markdown and/or creating Jekyll sites.  Right now I'm mostly just using the feature that automatically fills out the Front matter portion of new files
 
 [minimap](https://atom.io/packages/minimap){:target="blank"}
 
